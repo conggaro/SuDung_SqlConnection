@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KetNoi_SQL_Server_Bang_File_CauHinh_Config", "KetNoi_SQL_Server_Bang_File_CauHinh_Config\KetNoi_SQL_Server_Bang_File_CauHinh_Config.csproj", "{604761C0-2109-46E1-B80B-981C401E7F9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{604761C0-2109-46E1-B80B-981C401E7F9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{604761C0-2109-46E1-B80B-981C401E7F9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{604761C0-2109-46E1-B80B-981C401E7F9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{604761C0-2109-46E1-B80B-981C401E7F9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0578E129-8EB0-40E7-BFCC-0B3248D08A05}
+	EndGlobalSection
+EndGlobal
